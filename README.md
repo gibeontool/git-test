@@ -1,1 +1,1 @@
-oops! this is where i was suppose to say this is my first for the odin project.
+This is a Test from the ODIN PROJECT. This is the information listed that tells about my app.
